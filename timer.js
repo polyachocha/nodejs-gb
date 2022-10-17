@@ -1,4 +1,3 @@
-//formaat hh-DD-MM-YYYY
 require('moment-precise-range-plugin');
 const moment = require ('moment');
 const EventEmitter = require ('events');
